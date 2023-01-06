@@ -19,7 +19,7 @@
     div.solid {
       border: solid;
       border-width: 1px;
-      c olor: black;
+      color: black;
       width: 400px;
       height: 200px;
     }
